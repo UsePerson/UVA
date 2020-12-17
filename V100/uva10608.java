@@ -1,5 +1,5 @@
 import java.util.*;
-public class Union 
+public class uva10608
 {
 	public static int set[] = new int [30001];	// town¡¦s citizens ( 1 <= N <= 30000 )
 	public static void main( String[] args ){ 
