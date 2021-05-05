@@ -1,3 +1,5 @@
+* uva 10305
+  * topological sort
 * uva 10583
   * disjoint set
 * uva 10608
